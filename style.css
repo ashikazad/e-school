@@ -1,0 +1,51 @@
+.full-width{
+    background-color: #F0FFF0;
+    height: 576px;
+}
+.container{
+    background-color: #F0FFF0;
+}
+.container-fluid{
+    background-color: #F0FFF0;
+    
+}
+.navbar-brand img{
+    width: 200px;
+}
+.nav-item{
+    font-size: 16px;
+    font-weight: 800;
+    padding: 20px;
+}
+.buy-now-button{
+    background-color: #21B573;
+    font-size: 16px;
+    font-weight: 800;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 12px 28px;
+    cursor: pointer;
+}
+.image img{
+    width:600px;
+}
+.learn{
+    padding: 10px 20px;
+}
+.learn h3{
+    font-size: 16px;
+    color: #FD511A;
+    
+}
+.learn h1{
+    font-size: 58px;
+    font-weight: 800;
+}
+.row{
+    margin-top: 40px;
+}
+.any{
+    color: #21B573;
+
+}
