@@ -2,9 +2,7 @@
     background-color: #F0FFF0;
     height: 576px;
 }
-.container{
-    background-color: #F0FFF0;
-}
+
 .container-fluid{
     background-color: #F0FFF0;
     
@@ -48,4 +46,79 @@
 .any{
     color: #21B573;
 
+}
+img.card-img-top{
+    width: 66px;
+}
+.book img{
+    width: 100px;
+    align-items: center;
+    text-align: center;
+    padding: 25px 20px;
+}
+.card{
+    padding: 20px;
+    border: none;
+}
+.card-body img{
+    width: 100px;
+}
+.card-body{
+    text-align: center;
+    padding: 20px 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-body:hover{
+    background-color: #F0FFF0;
+}
+h5{
+    margin-top: 10px;
+    font-size: 24px;
+    font-weight: 500;
+}
+.crd{
+    padding-bottom: 20px;
+}
+.photos img{
+    width: 374px;
+    height: 234px;
+}
+h6{
+    text-align: center;
+    font-size: 48px;
+}
+.cl-md-6 img{
+    width: 100px;
+}
+.photo img{
+    width: 100px;
+}
+.photo{
+    padding: 30px 0px 11px 385px;
+}
+.txt p{
+    padding: 30px 90px 0px 0px;
+    font-size: 18px;
+    font-weight: 500;
+}
+footer{
+    text-align: center;
+    background-color: #282531;
+    color: #fff;
+    padding-top: 10px;
+}
+ul li{
+    list-style: none;
+    text-align: justify;
+}
+ul li a{
+
+    text-decoration: none;
+    color: #fff;
+}
+h2{
+    text-align: justify;
+    padding-left: 25px;
 }
